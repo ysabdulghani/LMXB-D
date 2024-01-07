@@ -1,1 +1,1 @@
-# LMXB-D
+# LMXBD
