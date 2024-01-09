@@ -32,7 +32,7 @@ pip install numpy matplotlib torch scipy h5py boost-histogram
 
 ### Usage
 
-1-Generate MCMC distrubtion of normalization of `ezdiskbb` in xspec, ensure that your model follows this notation (order matters):
+1-Generate MCMC distrubtion of the soft state `ezdiskbb` normalization in xspec, ensure that your model follows this notation (order matters):
 ```
 any_absorption_model*(powerlaw+ezdiskbb+any_other_model_components)
 ```
