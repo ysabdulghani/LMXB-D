@@ -17,6 +17,7 @@ What you need to install the software:
 - SciPy
 - H5py
 - Boost Histogram
+- tqdm
 
 ### Installation
 
@@ -27,7 +28,7 @@ Clone the repository and install the required packages.
 ```bash
 git clone https://github.com/ysabdulghani/lmxbd/
 cd lmxbd
-pip install numpy matplotlib torch scipy h5py boost-histogram
+pip install numpy matplotlib torch scipy h5py boost-histogram tqdm
 ```
 
 ### Usage
