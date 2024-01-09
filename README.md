@@ -1,6 +1,6 @@
 # LMXB-D: A Low Mass Black Hole X-Ray Binary Distance Estimator
 
-Calculate mass/distance probabilities based on the probability distribution (MCMC distribution) of the soft state model `ezdskbb` normalization and the soft-to-hard transition period power law flux in 0.5 to 200 keV range using `cflux`. It uses the statistical framework prescribed in [Abdulghani et. al. 2004](https://arxiv.org/abs/2401.03654).
+Calculate mass/distance probabilities based on the probability distribution (MCMC distribution) of the soft state model `ezdskbb` normalization and the soft-to-hard transition period power law flux in 0.5 to 200 keV range using `cflux`. It uses the statistical framework prescribed in [Abdulghani et. al. 2024](https://arxiv.org/abs/2401.03654).
 
 ## Getting Started
 
